@@ -14,23 +14,11 @@ defaults:
     values:
       image: true
 
-title: Minimalism
-name: minimalism
-description: Minimalism is a jekyll theme for minimalist
+title: movie
+name: movie
+description: movie is
 
-github: https://github.com/showzeng/Minimalism
+github:
 rss: true
 
-plugins:
-  - rouge
-  - kramdown
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jemoji
 
-exclude:
-  - script
-  - docs
-  - vendor
-  - Gemfile
-  - Gemfile.lock
