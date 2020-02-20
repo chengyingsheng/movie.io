@@ -1,0 +1,25 @@
+<html>
+<body>
+<!--<h2>Hello World!</h2>-->
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<script src="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.js"></script>
+<link href="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.css" rel="stylesheet">
+<!--<video id="video"></video>-->
+<div id="dplayer"></div>
+<script>
+    new DPlayer({
+        container: document.getElementById('dplayer'),
+        video: {
+            url: "https://p.850ts.com/20200205/101/4002/4002.mp4.m3u8",
+            type: 'hls'
+        },
+        hlsjsConfig: {
+            p2pConfig: {
+                logLevel: true,
+                live: false,
+            }
+        },
+    });
+</script>
+</body>
+</html>
