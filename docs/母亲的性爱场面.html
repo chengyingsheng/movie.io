@@ -1,0 +1,26 @@
+<html>
+<body>
+<!--<h2>Hello World!</h2>-->
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<script src="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.js"></script>
+<link href="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.css" rel="stylesheet">
+<!--<video id="video"></video>-->
+<div id="dplayer"></div>
+<script>
+    new DPlayer({
+        container: document.getElementById('dplayer'),
+        video: {
+            url: 'https://cdn.aqdvideo.com/video/de0d2ded/playlist/de0d2ded.m3u8',
+            type: 'hls',
+            pic : 'https://cdn7.xufengkeji.com/thumbs/5487_cover_960x540.jpg'
+        },
+        hlsjsConfig: {
+            p2pConfig: {
+                logLevel: true,
+                live: false,
+            }
+        },
+    });
+</script>
+</body>
+</html>
