@@ -2,15 +2,18 @@
 <body>
 <!--<h2>Hello World!</h2>-->
 <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-<script src="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.js"></script>
-<link href="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/flv.js/dist/flv.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/hls.js/dist/hls.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/dashjs/dist/dash.all.min.js"></script>
+<script src="https://cdn.jsdelivr.net/webtorrent/latest/webtorrent.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/dplayer/dist/DPlayer.min.js"></script>
 <!--<video id="video"></video>-->
 <div id="dplayer"></div>
 <script>
     new DPlayer({
         container: document.getElementById('dplayer'),
         video: {
-            url: "https://resources.tkb300.live/8b1577384cfa025be4405388cfa40506/hp720_5417/output_hd.m3u8?md5=urHyXVrmgKMI_5i0jR_dNw&expires=1613671736",
+            url: "https://hmcdn.video-api.xyz:2100/20201020/vXX5wrjX/1500kb/hls/2b14d0f68d2a8a6a69ae35a2c6473869.m3u8",
             type: 'hls'
         },
         hlsjsConfig: {
