@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c6cee5d-7689-406c-adf6-792fd324bd76" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/m4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/m4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/m5.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/m5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/m6.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/m6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/m8.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/m8.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,17 +36,6 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,7 +79,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1636465018183</updated>
-      <workItem from="1636465022172" duration="1191000" />
+      <workItem from="1636465022172" duration="1744000" />
+      <workItem from="1636639737371" duration="86000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1636465094251</created>
@@ -129,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636472631745</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="d">
+      <created>1636556211555</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1636556211555</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
