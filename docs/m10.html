@@ -2,15 +2,19 @@
 <body>
 <!--<h2>Hello World!</h2>-->
 <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-<script src="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.js"></script>
-<link href="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/flv.js/dist/flv.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/hls.js/dist/hls.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/dashjs/dist/dash.all.min.js"></script>
+<script src="https://cdn.jsdelivr.net/webtorrent/latest/webtorrent.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/dplayer/dist/DPlayer.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/dplayer@latest/dist/DPlayer.min.css">
 <!--<video id="video"></video>-->
 <div id="dplayer"></div>
 <script>
     new DPlayer({
         container: document.getElementById('dplayer'),
         video: {
-            url: "https://cdn.aqdvideo.com/video/8e461dfd/playlist/8e461dfd.m3u8",
+            url: "https://hmcdn.video-api.xyz:2100/20210213/nhiTuqPh/1500kb/hls/d53838db54764588f4007b7b95e421e3.m3u8",
             type: 'hls'
         },
         hlsjsConfig: {
