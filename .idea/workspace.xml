@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c6cee5d-7689-406c-adf6-792fd324bd76" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/m12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/m7.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/m1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/m1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/m10.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/m10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/m11.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/m11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/m2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/m2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/m3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/m3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/m4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/m4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/m5.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/m5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/m6.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/m6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/m8.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/m8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/m9.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/m9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/m19.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/m19.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +23,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -49,13 +47,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -105,7 +105,8 @@
       <workItem from="1636897067736" duration="29000" />
       <workItem from="1636897452376" duration="98000" />
       <workItem from="1638629691341" duration="382000" />
-      <workItem from="1638970939437" duration="976000" />
+      <workItem from="1638970939437" duration="1374000" />
+      <workItem from="1639056302320" duration="481000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1636465094251</created>
@@ -163,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638629904867</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="d">
+      <created>1638972728630</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1638972728631</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
