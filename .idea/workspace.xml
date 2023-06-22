@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c6cee5d-7689-406c-adf6-792fd324bd76" name="Default Changelist" comment="" />
+    <list default="true" id="5c6cee5d-7689-406c-adf6-792fd324bd76" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/m1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/m1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/m2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/m2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/m3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/m3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/m4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/m4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/m5.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/m5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/m6.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/m6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/m7.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/m7.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +27,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
@@ -72,7 +81,7 @@
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
-    <configuration>$USER_HOME$/.subversion</configuration>
+    <configuration>$PROJECT_DIR$/../.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -91,6 +100,9 @@
       <workItem from="1639056302320" duration="682000" />
       <workItem from="1639119152399" duration="281000" />
       <workItem from="1639221541263" duration="899000" />
+      <workItem from="1687430227428" duration="36000" />
+      <workItem from="1687430283616" duration="12000" />
+      <workItem from="1687430433092" duration="815000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1636465094251</created>
@@ -188,6 +200,18 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
