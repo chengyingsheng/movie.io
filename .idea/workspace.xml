@@ -14,7 +14,11 @@
   </component>
   <component name="ProjectId" id="20gT1ldJygWqsORmMyIsjKqiRYE" />
   <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -108,6 +112,9 @@
       <workItem from="1724413417627" duration="1042000" />
       <workItem from="1724490300543" duration="206000" />
       <workItem from="1727356313851" duration="981000" />
+      <workItem from="1735814830713" duration="33000" />
+      <workItem from="1735814870197" duration="599000" />
+      <workItem from="1735902182041" duration="175000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1636465094251</created>
@@ -305,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1727356585557</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="d">
+      <created>1735814841668</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1735814841668</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
